@@ -1,7 +1,6 @@
 ## Oii! Eu sou a Ana Luiza 👋
 
 ## Sobre mim
-
 <div>
 <p>Atualmente, sou estudante de Tecnologia em Sistemas para Internet no IFSP - Campus Araraquara e também estagiária na área de suporte técnico. Gosto muito de tecnologia e estou sempre buscando aprender e criar soluções que facilitem a vida das pessoas.
 Tenho conhecimento em PHP, JavaScript, HTML, CSS, C, SQL, Bootstrap e JSON, além de já ter trabalhado com ferramentas como Postman, DBeaver, FileZilla e Microsoft Azure.
