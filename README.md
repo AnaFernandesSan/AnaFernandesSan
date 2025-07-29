@@ -1,5 +1,14 @@
 ## Oii! Eu sou a Ana Luiza 👋
 
+## Sobre mim
+
+<div>
+Atualmente, sou estudante de Tecnologia em Sistemas para Internet no IFSP - Campus Araraquara e também estagiária na área de suporte técnico. Gosto muito de tecnologia e estou sempre buscando aprender e criar soluções que facilitem a vida das pessoas.
+Tenho conhecimento em PHP, JavaScript, HTML, CSS, C, SQL, Bootstrap e JSON, além de já ter trabalhado com ferramentas como Postman, DBeaver, FileZilla e Microsoft Azure.
+Participei de alguns projetos bem legais durante a graduação, como uma iniciação científica com foco no ensino de lógica de programação usando Thunkable, e também de um projeto de extensão com metodologias ativas, usando Scratch, Hora do Código e LEGO para ensinar programação.
+
+Além da tecnologia, curto muito ler (principalmente ficção e fantasia) e jogar videogame nas horas vagas 🎮📚.
+</div>
 
 ## Linguagens
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
